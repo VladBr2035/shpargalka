@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kitchen_array">
+        <item>Австрийская кухня</item>
+        <item>Грузинские блюда</item>
+        <item>Болгарская кухня</item>
+        <item>Абхазская кухня</item>
+        <item>Бельгийская кухня</item>
+        <item>Австралийская кухня</item>
+    </string-array>
+</resources>
